@@ -2,9 +2,6 @@
 
 # ❄️ Weatherender Foundation
 
-Production-grade weather intelligence for skiers.
-# ❄️ Weatherender Foundation
-
 **Open-source weather intelligence for alpine sports, travelers, and developers.**
 
 We build production-grade tools that transform raw meteorological data into actionable insights. Our core project, **Weatherender**, is a complete weather intelligence platform — from a sleek web interface and CLI tool to a high‑performance async API, all backed by modern infrastructure and engineering practices.

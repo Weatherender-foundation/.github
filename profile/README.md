@@ -22,7 +22,7 @@ We build production-grade tools that turn raw meteorological data into actionabl
 - **Backend:** Python 3.13, Flask, FastAPI, Uvicorn, Gunicorn, SQLAlchemy, Alembic
 - **Database & cache:** PostgreSQL, Redis
 - **Infrastructure:** Docker, Docker Compose, GitHub Actions, APScheduler
-- **Testing:** 119+ pytest tests, k6 smoke/load/stress/spike scripts, Codecov
+- **Testing:** python and unit tests, k6 smoke/load/stress/spike scripts, Codecov
 - **Security:** Talisman, Flask-Limiter, SlowAPI, request validation, User-Agent checks
 - **Observability:** Prometheus metrics, structured JSON logging
 

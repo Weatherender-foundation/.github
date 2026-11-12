@@ -73,7 +73,7 @@ We welcome contributors of all skill levels — whether you want to fix a bug, i
 ---
 
 ## 📄 License
-This project is licensed under the **Apache License 2.0**.
+This project is licensed under the **AGPL v3.0**.
 
 See [LICENSE](LICENSE) for the full terms. Project names and branding are covered separately in [TRADEMARKS.md](TRADEMARKS.md).
 
